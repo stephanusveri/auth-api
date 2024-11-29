@@ -1,0 +1,8 @@
+# Node.js dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Firebase credentials
+api-auth-capstone-firebase-adminsdk-wseft-ecd4a0a4a3.json
